@@ -30,4 +30,3 @@
   
   ##
   
-  ![Snake animation](https://github.com/caioalmeida7/caioalmeida7/blob/output/github-contribution-grid-snake.svg)
