@@ -2,6 +2,7 @@
 
 - 🔭 Cursando Sistemas de Informação.
 - 🌱 Estudando Js/Node.JS/PHP/MySQL
+- ⚡ Proativo e boa comunicação entre equipes.
 - 📫 contate-me no email: caioagp077@gmail.com
 
 <div align="center">
