@@ -1,6 +1,6 @@
 ## Olá! Eu sou Caio Almeida, estudante de tecnologia.👋
 
-- 🔭 Estou trabalhando em projetos pessoais.
+- 🔭 Cursando Sistemas de Informação.
 - 🌱 Estudando Js/Node.JS/PHP/MySQL
 - 📫 contate-me no email: caioagp077@gmail.com
 
