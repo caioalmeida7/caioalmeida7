@@ -1,4 +1,4 @@
-## Olá! Eu sou Caio Almeida, estudante de tecnologia.👋
+## Olá! Eu sou Caio Almeida, estudante de tecnologia.💻
 
 - 🔭 Cursando Sistemas de Informação.
 - 🌱 Estudando Js/Node.JS/PHP/MySQL
