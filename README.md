@@ -1,7 +1,7 @@
 ## Olá! Eu sou Caio Almeida, estudante de tecnologia.💻
 
 - 🔭 Cursando Sistemas de Informação.
-- 🌱 Estudando Js/Node.JS/PHP/MySQL
+- 🌱 Experiência em Js/NodeJS/PHP/Laravel/SQL/MySQL
 - ⚡ Proativo e boa comunicação entre equipes.
 - 🌐 Confira meu Linkedln: https://www.linkedin.com/in/caio-almeida-34aaa321a/
 - 📫 contate-me no email: caioagp077@gmail.com
